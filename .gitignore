@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +170,19 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+.vscode/
+venv/
+__pycache__/
+static/
+venv
+
+constants.py
+Dockerfile
+ticket.txt
+test.py
+
+
+*.drawio
+*.sql
+>>>>>>> origin/dev
